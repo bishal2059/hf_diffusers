@@ -1,1 +1,3 @@
 output/
+.vscode/
+diff/__pycache__
